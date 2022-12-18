@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  common:
+  - apiVersion: v2
+    created: "2022-12-18T03:37:26.123093853Z"
+    digest: bfced8a3cf1fc34dc9ed031ddb83224a1987e96ef34afc495e1c581d80f15d2f
+    name: common
+    type: library
+    urls:
+    - https://github.com/fred-drake/helm/releases/download/common-1.0.0/common-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-12-18T03:37:26.123101854Z"
